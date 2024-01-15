@@ -8,7 +8,7 @@ namespace Form_Ajax_Jquery.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult POST()
+        public ActionResult Get()
         {
             var abc=12;
             return View();

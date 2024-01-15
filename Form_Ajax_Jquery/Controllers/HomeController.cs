@@ -10,6 +10,7 @@ namespace Form_Ajax_Jquery.Controllers
     {
         public ActionResult POST()
         {
+            var abc=12;
             return View();
         }
 
